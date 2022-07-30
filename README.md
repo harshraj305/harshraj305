@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Harsh
+![GitHub Views](https://komarev.com/ghpvc/?username=harshraj305)
 
 <!--
 **harshraj305/harshraj305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,3 +35,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40">
   
 </div>
+
+---
+
+###  Github Statistics :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshraj305&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshraj305)](https://github.com/anuraghazra/github-readme-stats)
