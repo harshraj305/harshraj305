@@ -7,10 +7,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Flutter 
-- 🌱 I’m currently learning api's and firebase and DSA
-- 👯 I’m looking to collaborate on flutter projects
-- 💬 Ask me about flutter and DSA
+- 🔭 I’m currently working on Node.js
+- 🌱 I’m currently learning Backend and DSA
+- 👯 I’m looking to collaborate on React Web projects
+- 💬 Ask me about Backend and DSA
 <!--
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
